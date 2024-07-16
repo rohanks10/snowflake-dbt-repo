@@ -1,1 +1,0 @@
-select * from DB_ECOMMERCE.SC_ECOMM
